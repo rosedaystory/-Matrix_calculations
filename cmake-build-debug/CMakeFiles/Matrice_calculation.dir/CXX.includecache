@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/visualcamp/CLionProjects/Matrice_calculation/TBOMatrix.cpp
+TBOMatrix.h
+/Users/visualcamp/CLionProjects/Matrice_calculation/TBOMatrix.h
+iostream
+-
+limits
+-
+stdexcept
+-
+TBOMatrix.h
+/Users/visualcamp/CLionProjects/Matrice_calculation/TBOMatrix.h
+math.h
+-
+
+/Users/visualcamp/CLionProjects/Matrice_calculation/TBOMatrix.h
+
+/Users/visualcamp/CLionProjects/Matrice_calculation/main.cpp
+iostream
+-
+TBOMatrix.cpp
+/Users/visualcamp/CLionProjects/Matrice_calculation/TBOMatrix.cpp
+
